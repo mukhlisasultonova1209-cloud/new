@@ -48,7 +48,7 @@ html{
 .header-list li a{
     cursor: pointer;
     transition: 0.3s;
-    color: white;
+    color: #FFF4D8;
 }
 
 .header-list li a:active {
